@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cristianromerotech/portfolio-development.git/static/css/main.57c61fe7.css",
-    "main.js": "/cristianromerotech/portfolio-development.git/static/js/main.8c82c364.js",
-    "static/js/453.ace21015.chunk.js": "/cristianromerotech/portfolio-development.git/static/js/453.ace21015.chunk.js",
-    "static/media/background_home.jpg": "/cristianromerotech/portfolio-development.git/static/media/background_home.ce933c3d113bb030b948.jpg",
-    "static/media/cristian_photo.png": "/cristianromerotech/portfolio-development.git/static/media/cristian_photo.7bc50e02567963d8adde.png",
-    "index.html": "/cristianromerotech/portfolio-development.git/index.html",
-    "main.57c61fe7.css.map": "/cristianromerotech/portfolio-development.git/static/css/main.57c61fe7.css.map",
-    "main.8c82c364.js.map": "/cristianromerotech/portfolio-development.git/static/js/main.8c82c364.js.map",
-    "453.ace21015.chunk.js.map": "/cristianromerotech/portfolio-development.git/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/static/css/main.57c61fe7.css",
+    "main.js": "/static/js/main.b7096510.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/background_home.jpg": "/static/media/background_home.ce933c3d113bb030b948.jpg",
+    "static/media/cristian_photo.png": "/static/media/cristian_photo.7bc50e02567963d8adde.png",
+    "index.html": "/index.html",
+    "main.57c61fe7.css.map": "/static/css/main.57c61fe7.css.map",
+    "main.b7096510.js.map": "/static/js/main.b7096510.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57c61fe7.css",
-    "static/js/main.8c82c364.js"
+    "static/js/main.b7096510.js"
   ]
 }
