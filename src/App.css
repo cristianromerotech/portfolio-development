@@ -13,15 +13,28 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
+.App-homepage {
+  background-color: #ffffff;
   min-height: 100vh;
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(255, 255, 255);
+  background-image: url(./images/background_home.jpg);
+}
+
+.App-projects {
+  background-color: #ffffff;
+  min-height: 100vh;
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+  background-image: url(./images/background_blue.jpg);
 }
 
 .App-link {
@@ -35,4 +48,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Estilo para el footer */
+.footer {
+  background-color: #000000;
+  padding: 2rem; /* Espaciado interno de 2 unidades (ajusta según tus necesidades) */
+ 
+  color: rgb(255, 255, 255); /* Color del texto */
 }
